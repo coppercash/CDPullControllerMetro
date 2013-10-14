@@ -1,0 +1,12 @@
+//
+// Prefix header for all source files of the 'CDPullControllerMetro' target in the 'CDPullControllerMetro' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <QuartzCore/QuartzCore.h>
+    #import "CDFunctions.h"
+    #import "CDTypes.h"
+    #import "Header.h"
+    #import "CDMemAssist.h"
+#endif
